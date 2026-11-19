@@ -10,3 +10,7 @@ ___
 ## Z-FUEL: OUT COLD
 
 ## Z-FUEL: BLACKOUT
+
+___
+# NOTES
+- Ethan Brooke is the key to being able to stop Zeta Site and their 
