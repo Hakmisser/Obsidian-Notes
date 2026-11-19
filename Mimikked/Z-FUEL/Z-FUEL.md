@@ -18,4 +18,4 @@ ___
 - [[Waylon Warner]]'s main weapon is the [[De-Energizing Compound]] installed into remote controlled gas masks.
 - The mascot for [[obsidian-paulhacknotes/Mimikked/Z-FUEL/Story/Z-FUEL|Z-FUEL]] is a zombified caricature of [[Waylon Warner]]. At the end of the story Waylon uses an experimental DE-6 compound and as a result resembles the mascot.
 - Ethan Brooke is eventually captured by [[Zeta Site]] and the investigators devise a plan to rescue him by going undercover. The undercover investigator sacrifices themselves in order to rescue Ethan.
-- [[Zeta Site]] has a partnership with Cirrostore, the company that produces CHNO Boost Patch
+- [[Zeta Site]] has a partnership with Cirrostore, the company that produces CHNO Boost Patch, which eventually gets dissolved due to 
