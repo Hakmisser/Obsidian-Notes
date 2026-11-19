@@ -11,7 +11,7 @@ ___
 Z-FUEL: OUT COLD is a winter themed flavor for the [[obsidian-paulhacknotes/Mimikked/Z-FUEL/Story/Z-FUEL|Z-FUEL]] product line.
 
 ### Endurance Test
-
+The Endurance Test is a human subject trial conducted by [[Zeta Site]] during the fourth iteration of the [[De-Energizing Compound]]. The trial measures the onset and progression of the compound's effects, specifically how long it takes for subjects to begin exhibiting signs of de-energization following administration.
 
 ## Z-FUEL: BLACKOUT
 
