@@ -16,4 +16,4 @@ ___
 - Ethan Brooke is the key to being able to stop Zeta Site and Waylon Warner
 - Throughout the story Waylon Warner changes from a passive force to an active force against the protagonist
 - Waylon Warner's main weapon is the DE compound installed into remote controlled gas masks
-- The mascot for
+- The mascot for Z-FUEL is a zombified caricature of Waylon Warner. At the end of the story Waylon uses an experimental DE-6 compound and as a result 
