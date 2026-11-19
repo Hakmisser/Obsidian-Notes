@@ -17,4 +17,5 @@ ___
 - Throughout the story Waylon Warner changes from a passive force to an active force against the protagonist
 - Waylon Warner's main weapon is the DE compound installed into remote controlled gas masks
 - The mascot for Z-FUEL is a zombified caricature of Waylon Warner. At the end of the story Waylon uses an experimental DE-6 compound and as a result resembles the mascot
-- Ethan Brooke is eventually captured by Zeta Site and the investigators devise a plan to 
+- Ethan Brooke is eventually captured by Zeta Site and the investigators devise a plan to rescue him by going undercover
+	- The undercover investigator sacrifices the
