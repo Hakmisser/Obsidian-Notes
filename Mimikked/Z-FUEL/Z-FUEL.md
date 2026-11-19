@@ -13,4 +13,5 @@ ___
 
 ___
 # NOTES
-- Ethan Brooke is the key to being able to stop Zeta Site and their 
+- Ethan Brooke is the key to being able to stop Zeta Site and Waylon Warner
+- Throughout the story 
