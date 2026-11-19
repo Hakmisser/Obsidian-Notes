@@ -7,12 +7,10 @@ tags:
 ---
 When an independent journalist discovers unethical practices happening under the watch of a "reverse-energy drink" company and its CEO, they must find a way to expose the truth while also not succumbing to the repeated efforts of the company trying to silence them.
 ___
-## Z-FUEL: OUT COLD
+# Z-FUEL: OUT COLD
 Z-FUEL: OUT COLD is a winter themed flavor for the [[obsidian-paulhacknotes/Mimikked/Z-FUEL/Story/Z-FUEL|Z-FUEL]] product line. Its debut features a commercial in which [[Waylon Warner]] sings a parody version of "God Rest Ye Merry Gentlemen."
 ### Endurance Test
 The Endurance Test is a human subject trial conducted by [[Zeta Site]] during the fourth iteration of the [[De-Energizing Compound]]. The trial measures the onset and progression of the compound's effects, specifically how long it takes for subjects to begin exhibiting signs of de-energization following administration.
-## Z-FUEL: BLACKOUT
-
 ___
 # NOTES
 - [[Ethan Brooke]] is the key to being able to stop [[Zeta Site]] and [[Waylon Warner]].
