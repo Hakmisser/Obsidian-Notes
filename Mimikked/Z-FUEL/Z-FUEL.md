@@ -5,4 +5,4 @@ tags:
   - Analogue_Horror
   - Narrative
 ---
-When an independent journalist discovers 
+When an independent journalist discovers unethical practices happening under the 
