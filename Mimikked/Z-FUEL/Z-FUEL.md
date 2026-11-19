@@ -9,7 +9,7 @@ When an independent journalist discovers unethical practices happening under the
 ___
 # Z-FUEL: OUT COLD
 Z-FUEL: OUT COLD is a winter themed flavor for the [[obsidian-paulhacknotes/Mimikked/Z-FUEL/Story/Z-FUEL|Z-FUEL]] product line. Its debut features a commercial in which [[Waylon Warner]] sings a parody version of "God Rest Ye Merry Gentlemen."
-### Endurance Test
+## Endurance Test
 The Endurance Test is a human subject trial conducted by [[Zeta Site]] during the fourth iteration of the [[De-Energizing Compound]]. The trial measures the onset and progression of the compound's effects, specifically how long it takes for subjects to begin exhibiting signs of de-energization following administration.
 ___
 # NOTES
