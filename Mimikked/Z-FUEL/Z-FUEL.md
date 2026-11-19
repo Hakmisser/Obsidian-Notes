@@ -5,4 +5,4 @@ tags:
   - Analogue_Horror
   - Narrative
 ---
-When an independent journalist discovers unethical practices happening under the watch of a "reverse-energy d"
+When an independent journalist discovers unethical practices happening under the watch of a "reverse-energy drink" company and its CEO, they must find a way to expose the truth 
