@@ -1,6 +1,6 @@
 ---
-cover:
 creator: Paul Hackemesser
+cover:
 tags:
   - Reality
 ---
