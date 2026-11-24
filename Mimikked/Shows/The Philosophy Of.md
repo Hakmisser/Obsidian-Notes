@@ -8,5 +8,5 @@ Have you ever wondered how your favorite pop-culture character would deal with m
 ___
 # Episodes
 - [[The Philosophy Of Jason and Lucia - GTA VI]]
-- [[The Philosophy Of The Ghoul - Fallout]]
+- [[The Philosophy Of Fall]]
 - 
