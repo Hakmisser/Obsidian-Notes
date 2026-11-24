@@ -9,5 +9,5 @@ ___
 # Episodes
 - [[The Philosophy Of Jason and Lucia - GTA VI]]
 - [[The Philosophy Of Fallout - Fallout TV Show]]
-- [[The Philosophy Of The Backrooms]]
+- [[The Philosophy Of The Backrooms - Backrooms]]
 - 
