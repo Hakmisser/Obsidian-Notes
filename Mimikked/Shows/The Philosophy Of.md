@@ -14,4 +14,5 @@ ___
 # Episodes
 - [[The Philosophy Of The Ghoul, The Vault Dweller, and The Soldier - Fallout (TV Series)]]
 - [[The Philosophy Of Green Lantern - Lanterns (2026)]]
-- 
+___
+# Notes
