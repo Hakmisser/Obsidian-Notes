@@ -14,3 +14,4 @@ Have you ever wondered how your favorite pop-culture character would deal with m
 - [[The Philosophy Of The Ghoul, The Vault Dweller, and The Soldier - Fallout (TV Series)]]
 - [[The Philosophy Of Green Lantern - Lanterns (2026)]]
 # Notes
+/commi
