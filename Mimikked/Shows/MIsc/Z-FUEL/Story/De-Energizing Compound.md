@@ -1,6 +1,6 @@
-___
+# De-Energization Compound
 The **De-Energizing Compound** is a proprietary mixture created and patented by [[Zeta Site]], originally developed as the active ingredient in [[obsidian-paulhacknotes/Mimikked/Shows/MIsc/Z-FUEL/Story/Z-FUEL|Z-FUEL]],  Its publicly disclosed ingredients included melatonin, valerian root extract, L-theanine, and other undisclosed compounds.
-## Development Stages
+### Development Stages
 [[Zeta Site]]'s research into the compound was initially conducted through conventional commercial practices and controlled testing. However, early trials revealed that stronger formulations produced increasingly unusual effects beyond ordinary relaxation.
 
 As these effects became more pronounced, [[Zeta Site]] began developing the compound's effects into separate De-Energization (DE) compounds:
