@@ -3,7 +3,7 @@ views:
     name: Card View
     filters:
       and:
-        - file.folder == "obsidian-paulhacknotes/Mimikked/Shows"
+        - file.folder == "Obsidian Notes/Mimikked/Shows"
     order:
       - file.name
       - tags
